@@ -96,7 +96,7 @@ A seguir estão algumas regras de negócio importantes para o funcionamento:
 
 ## Exemplo do fluxo
 
-![Fluxo](https://kinebot-statics.s3.us-east-1.amazonaws.com/heroes.mp4)
+https://github.com/user-attachments/assets/f4215a88-aeef-453f-920f-83852d548043
 
 ## Avaliação
 Apresente sua solução utilizando o framework que você desejar, justificando a escolha. 
